@@ -1,3 +1,2 @@
-# About Me
-
-Using the resources linked in examples, have a go at making a quick about you page using Markdown.
+# About Ali
+hey fellas Ali this side, I am born and brought up in Kingdom of Saudi Arabia 
